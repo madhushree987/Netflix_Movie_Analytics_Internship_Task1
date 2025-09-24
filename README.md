@@ -1,7 +1,5 @@
 # Netflix_Movie_Analytics_Internship_Task1
 
-### Netflix Data Cleaning Project
-
 This repository contains a data cleaning project for a Netflix titles dataset. The included Jupyter Notebook demonstrates essential data wrangling techniques using Python's pandas library, preparing the data for future analysis.
 
 ### Project Contents
@@ -23,7 +21,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/chandana-gowri/Netflix_Movie_Analytics.git
+    git clone https://github.com/madhushree987/Netflix_Movie_Analytics_Internship_Task1
     ```
 2.  **Install the necessary libraries:**
     ```bash
